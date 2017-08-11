@@ -22,11 +22,16 @@
     $ brew install gradle
     ```
 
-2. TestObject Credentials
+2. TestObject Credentials and Appium Endpoint
     * Export your API key to authenticate to TestObject
     ```
     $ export TESTOBJECT_API_KEY=<your_api_key>
     ```
+    * Export the TestObject Appium endpoint of your choosing
+    ```
+    $ export APPIUM_URL=<your_api_key>
+    ```
+
 3. TestObject Devices
     * Ensure that your account has access to the devices below. If not, adjust accordingly
     ```
