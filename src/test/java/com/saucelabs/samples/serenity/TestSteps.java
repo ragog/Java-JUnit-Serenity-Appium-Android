@@ -1,4 +1,4 @@
-package net.serenity.samples.parameterized;
+package com.saucelabs.samples.serenity;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;

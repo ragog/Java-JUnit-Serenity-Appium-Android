@@ -1,4 +1,4 @@
-package net.serenity.samples.parameterized.util;
+package com.saucelabs.samples.serenity.util;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;

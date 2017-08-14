@@ -1,14 +1,13 @@
-package net.serenity.samples.parameterized;
+package com.saucelabs.samples.serenity;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
-import net.serenity.samples.parameterized.util.ResultReporter;
+import com.saucelabs.samples.serenity.util.ResultReporter;
 import net.serenitybdd.junit.runners.SerenityParameterizedRunner;
 import net.thucydides.core.annotations.Steps;
 import net.thucydides.core.annotations.UserStoryCode;
 import net.thucydides.junit.annotations.Concurrent;
 import net.thucydides.junit.annotations.TestData;
-import org.junit.After;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
