@@ -1,4 +1,4 @@
-## Java-TestNG-Appium-Android-Dynamic
+## Java-JUnit-Serenity-Appium-Android
 
 >This code is presented as an example only, since your tests and testing environments may require specialized scripting. This information should be taken only as an
 >illustration of how one would set up tests with Sauce Labs, and any modifications will not be supported. For questions regarding Sauce Labs integration, please see
@@ -29,7 +29,7 @@
     ```
     * Export the TestObject Appium endpoint of your choosing
     ```
-    $ export APPIUM_URL=<your_api_key>
+    $ export APPIUM_URL=<appium_endpoint_url>
     ```
 
 3. TestObject Devices
